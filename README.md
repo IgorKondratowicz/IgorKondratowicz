@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Igor. I am a high school graduate, fascinated by programming. I work as a JavaScript Developer at <a href="https://nordskill.com/">Nordskill</a>.</p>
+<p align="left">My name is Igor. I am a high school graduate, fascinated by programming. I work as a JavaScript Developer at <a href="https://nordskill.com/" target="_blank">Nordskill</a>.</p>
 
 ###
 
